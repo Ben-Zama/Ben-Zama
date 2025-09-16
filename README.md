@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Benzama Musa — a Frontend Developer with a creative edge and experience building modern, responsive web interfaces using VueJS.</h2>
+<h2 align="center">I'm Benzama — a Frontend Developer with a creative edge and experience building modern, responsive web interfaces using VueJS.</h2>
 
 ###
 
